@@ -1,7 +1,8 @@
 # ChallengeCup
 Challenge Cup
 
-# 我们的目标拿下`一等奖`
+论文记录
+
 
 
 
